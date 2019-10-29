@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(250, 206, 112);
+}
+
+p#carta{
+    text-align: left;
+}
+
+p#cafe{
+    text-align: center;
+}
+
+p#contacto{
+    text-align: right;
+}
+
+br{
+    clear: both;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
