@@ -2,6 +2,11 @@ body{
     background-color: rgb(250, 206, 112);
 }
 
+h1{
+    color: rgb(131, 44, 29);
+    text-align: center;
+}
+
 p#carta{
     text-align: left;
 }
